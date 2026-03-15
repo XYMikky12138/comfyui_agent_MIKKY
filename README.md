@@ -3,6 +3,7 @@
 ComfyUI 插件，通过 RunningHub OpenAPI 实现批量并发图像生成。
 
 rh_api_key填入runninghub的API https://www.runninghub.cn/enterprise-api/sharedApi（仅限企业级API，需要钱包充值）
+
 vlm_api_key填入硅基流动（siliconflow）的API  https://cloud.siliconflow.cn/playground/chat（因为调用了PRO模型，需要充值一定的金额才能使用，不需要充值很多，充一次能用很久）
 
 ---
