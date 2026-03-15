@@ -2,8 +2,6 @@
 
 ComfyUI 插件，通过 RunningHub OpenAPI 实现批量并发图像生成。
 
-节点路径：`RunningHub` → **`RH 批量生图 Agent`**
-
 ---
 
 ## 输入
