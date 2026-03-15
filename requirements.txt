@@ -1,0 +1,18 @@
+# ComfyUI RunningHub 批量生图 Agent 插件依赖
+
+# OpenAI API 客户端（用于 SiliconFlow VLM 调用）
+openai>=2.0.0
+
+# HTTP 请求库（用于 RunningHub API 调用和图片上传）
+requests>=2.31.0
+
+# 图像处理库
+Pillow>=10.0.0
+
+# 类型注解支持
+typing-extensions>=4.5.0
+
+# NumPy（图像处理）
+numpy>=1.24.0
+
+# 注意：torch 和 torchvision 由 ComfyUI 提供
