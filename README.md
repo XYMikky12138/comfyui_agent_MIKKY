@@ -6,6 +6,8 @@ rh_api_key填入runninghub的API https://www.runninghub.cn/enterprise-api/shared
 
 vlm_api_key填入硅基流动（siliconflow）的API  https://cloud.siliconflow.cn/playground/chat（因为调用了PRO模型，需要充值一定的金额才能使用，不需要充值很多，充一次能用很久）
 
+建议在config中的.env文件中配置API，之后使用就不需要再配置API
+
 ---
 
 ## 输入
